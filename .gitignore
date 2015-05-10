@@ -50,3 +50,5 @@ Temporary Items
 
 Debug/
 ipch/
+*.sdf
+cppprimer.sdf
