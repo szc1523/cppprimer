@@ -41,14 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Visual Studio files
+Debug/
+ipch/
 *.opensdf
 *.sdf
 *.suo
 *.ipch
 
-*.sdf
-
-Debug/
-ipch/
-*.sdf
-cppprimer.sdf
